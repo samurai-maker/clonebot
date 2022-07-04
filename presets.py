@@ -2,7 +2,7 @@
 class Presets(object):
     START_TEXT = """
 𝙃𝙚𝙡𝙡𝙤... {}
-𝐼 𝑐𝑎𝑛 𝑐𝑙𝑜𝑛𝑒 𝑚𝑒𝑑𝑖𝑎 𝑓𝑟𝑜𝑚 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑡𝑜 𝑦𝑜𝑢𝑟 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐ℎ𝑎𝑡 ! 𝐶𝑙𝑖𝑐𝑘 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑡𝑜 𝑐𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑒 𝑚𝑒. 𝐼𝑓 𝑦𝑜𝑢 𝑙𝑖𝑘𝑒 𝑚𝑒, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑔𝑖𝑣𝑒 𝑎 𝑠𝑡𝑎𝑟 𝑖𝑛 𝑚𝑎 𝐺𝑖𝑡𝐻𝑢𝑏 𝑟𝑒𝑝𝑜. 𝑇ℎ𝑎𝑛𝑘𝑠
+𝐼 𝑐𝑎𝑛 𝑐𝑙𝑜𝑛𝑒 𝑚𝑒𝑑𝑖𝑎 𝑓𝑟𝑜𝑚 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑡𝑜 𝑦𝑜𝑢𝑟 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐ℎ𝑎𝑡 ! 𝐶𝑙𝑖𝑐𝑘 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑡𝑜 𝑐𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑒 𝑚𝑒. 𝐼𝑓 𝑦𝑜𝑢 𝑙𝑖𝑘𝑒 𝑚𝑒, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑔𝑖𝑣𝑒 𝑎 𝑠𝑡𝑎𝑟 𝑖𝑛 𝑚𝑎 @spykids_SQL. 𝑇ℎ𝑎𝑛𝑘𝑠
     """
     WELCOME_TEXT = "⭑⭑★✪ HELP for more info: ✪★⭑⭑"
     MESSAGE_COUNT = """
@@ -30,7 +30,7 @@ class Presets(object):
 📲 𝐂𝐥𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐭    - <b>{}</b>
 📌 𝐋𝐚𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐎𝐧   - <b>{}</b>
 
-🔰 <a href='t.me/RMProjects'><b>@RMProjects</b></a>     🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
+🔰 <a href='t.me/Spykids_SQL'><b>@Spykids</b></a>     🏅 <a href='t.me/slogan_98'><b>@Github</b></a>
     """
     INFO_CHAT_TYPES = """
 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙚𝙣𝙩𝙚𝙧 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙩𝙮𝙥𝙚𝙨:
@@ -57,7 +57,7 @@ class Presets(object):
 𝐓𝐲𝐩𝐞𝐬: 📚:{} | 🎞:{} | 🔊:{} | 📸:{} | 🗣:{}
     """
     FILE_TYPES = ["document", "video", "audio", "voice", "photo"]
-    COPIED_MESSAGES = "<b><a href='https://github.com/m4mallu/clonebot'>Medias Copied</a></b>"
+    COPIED_MESSAGES = "<b><a href='https://t.me/slogan_98'>Medias Copied</a></b>"
     IN_CORRECT_PERMISSIONS_MESSAGE_DEST_POSTING = "A̶c̶c̶e̶s̶s̶ ̶D̶e̶n̶i̶e̶d̶\n\n𝘜𝘴𝘦𝘳 𝘪𝘴 𝘯𝘰𝘵 𝘢𝘯 𝘢𝘥𝘮𝘪𝘯 𝘰𝘳 𝘥𝘰𝘦𝘴𝘯'𝘵 𝘩𝘢𝘷𝘦\n" \
                                                   "𝘱𝘰𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘪𝘷𝘪𝘭𝘢𝘨𝘦𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘨𝘪𝘷𝘦𝘯 𝘤𝘩𝘢𝘵"
     USER_ABSENT_MSG = "𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙣𝙤𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙩𝙖𝙧𝙜𝙚𝙩 𝙘𝙝𝙖𝙩 𝙜𝙞𝙫𝙚𝙣"
