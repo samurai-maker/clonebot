@@ -6,11 +6,11 @@
   "website": "https://github.com/m4mallu/conebot",
   "repository": "https://github.com/samurai-maker/clonebot",
   "env": {
-        "APP_ID": {"description": "Get this value from https://my.telegram.org", "value": ""},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "value": ""},
-        "TG_BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","value": ""},
-        "TG_USER_SESSION": {"description": "String Session from an admin user. Go to: t.ly/GxsB ","value": ""},
-        "AUTH_USERS": {"description": "User ids of authorized users separated by space", "required": false},
+        "APP_ID": {"description": "Get this value from https://my.telegram.org", "value": "", "required": true},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "value": "", "required": true},
+        "TG_BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","value": "", "required": true},
+        "TG_USER_SESSION": {"description": "String Session from an admin user. Go to: t.ly/GxsB ","value": "", "required": true},
+        "AUTH_USERS": {"description": "User ids of authorized users separated by space", "value": "", "required": false},
         "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
   "addons": [
